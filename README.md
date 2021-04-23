@@ -45,9 +45,9 @@
 └── yarn.lock
 ```
 
-<img src="https://placeholder.com/150" />
+<img src="https://via.placeholder.com/300.png/09f/fff%20C" />
 
-![alt text](https://placeholder.com/150)
+![alt text](https://via.placeholder.com/300.png/09f/fff%20C)
 
 
 ###### Team CHABLIS
