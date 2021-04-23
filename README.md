@@ -45,6 +45,11 @@
 └── yarn.lock
 ```
 
+<img src="https://placeholder.com/" />
+
+![alt text](https://placeholder.com/)
+
+
 ###### Team CHABLIS
 # oneAudi Feature App - Stage
 ## Description
