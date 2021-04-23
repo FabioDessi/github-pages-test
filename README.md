@@ -1,3 +1,50 @@
+### Project structure
+```
+<ProjectDir>
+├── .env.development
+├── .eslintignore
+├── .eslintrc.js
+├── .github
+│   ├── workflows
+├── .gitignore
+├── .lighthouserc.json
+├── .npmrc
+├── .prettierignore
+├── .prettierrc.js
+├── cdk.json
+├── CONTRIBUTING.md
+├── cypress
+│   ├── fixtures
+│   ├── integration
+│   ├── plugins
+│   ├── support
+│   ├── tsconfig.json
+│   └── webpack.config.js
+├── cypress.json
+├── infrastructure
+│   ├── environment.ts
+│   ├── index.ts
+│   ├── tsconfig.json
+├── jest.config.js
+├── oneaudi-cli.json
+├── package.json
+├── README.md
+├── scripts
+│   └── generate-serverless-config.js
+├── server.js
+├── src
+│   ├── api
+│   ├── app
+│   ├── bootstrap.tsx
+│   ├── index.html
+│   ├── index.tsx
+│   ├── integrator
+│   └── test
+├── tsconfig.json
+├── webpack.config.js
+└── yarn.lock
+```
+
 ###### Team CHABLIS
 # oneAudi Feature App - Stage
 ## Description
