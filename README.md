@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-        - [Team CHABLIS](#team-chablis)
+      - [Team CHABLIS](#team-chablis)
 - [oneAudi Feature App - Doc Renderer](#oneaudi-feature-app---doc-renderer)
   - [Description](#description)
     - [Content options](#content-options)
