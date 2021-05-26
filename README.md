@@ -1,4 +1,28 @@
 <!--ts-->
+* [Create React App <a href="https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&amp;branchName=master" rel="nofollow"><img src="https://camo.githubusercontent.com/ba48d404e53a630d688e2a593446b037cd2fec00e40548e3dc3d0e0b028f0a88/68747470733a2f2f6465762e617a7572652e636f6d2f66616365626f6f6b2f6372656174652d72656163742d6170702f5f617069732f6275696c642f7374617475732f66616365626f6f6b2e6372656174652d72656163742d6170703f6272616e63684e616d653d6d6173746572" alt="Build Status" data-canonical-src="https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=master" style="max-width:100%;"></a> <a href="https://github.com/facebook/create-react-app/blob/master/CONTRIBUTING.md"><img src="https://camo.githubusercontent.com/accfb94480ba6689dde8dbeaf481411bbd41f1fbb13cb17e55e0846f11ce1cd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d677265656e2e737667" alt="PRs Welcome" data-canonical-src="https://img.shields.io/badge/PRs-welcome-green.svg" style="max-width:100%;"></a>](#create-react-app--)
+   * [Quick Overview](#quick-overview)
+      * [Get Started Immediately](#get-started-immediately)
+   * [Creating an App](#creating-an-app)
+      * [npx](#npx)
+      * [npm](#npm)
+      * [Yarn](#yarn)
+      * [npm start or yarn start](#npm-start-or-yarn-start)
+      * [npm test or yarn test](#npm-test-or-yarn-test)
+      * [npm run build or yarn build](#npm-run-build-or-yarn-build)
+   * [User Guide](#user-guide)
+   * [How to Update to New Versions?](#how-to-update-to-new-versions)
+   * [Philosophy](#philosophy)
+   * [What’s Included?](#whats-included)
+   * [Popular Alternatives](#popular-alternatives)
+   * [React Native](#react-native)
+   * [Contributing](#contributing)
+   * [Supporting Create React App](#supporting-create-react-app)
+   * [Credits](#credits)
+   * [Acknowledgements](#acknowledgements)
+   * [License](#license)
+
+<!-- Added by: runner, at: Wed May 26 13:09:39 UTC 2021 -->
+
 <!--te-->
 
 # Create React App [![Build Status](https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=master)](https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&branchName=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/master/CONTRIBUTING.md)
