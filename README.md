@@ -1,20 +1,5 @@
-<!--ts-->
-               * [Team CHABLIS](#team-chablis)
-* [oneAudi Feature App - Doc Renderer](#oneaudi-feature-app---doc-renderer)
-   * [Description](#description)
-      * [Content options](#content-options)
-* [Getting Started](#getting-started)
-         * [Links](#links)
-   * [Notes](#notes)
-   * [Prerequisites](#prerequisites)
-      * [Environment variables](#environment-variables)
-      * [Package access](#package-access)
-   * [Project structure](#project-structure)
-   * [Usage](#usage)
-
-<!-- Added by: runner, at: Wed May 26 15:01:00 UTC 2021 -->
-
-<!--te-->
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ###### Team CHABLIS
 
