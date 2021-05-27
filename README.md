@@ -22,18 +22,18 @@
 ## Description
 Renders MD documentation files in React with Audi CI
 
-### Content options
+## Content options
 * Documentation File Url
 
-# Getting Started
-## Links
+## Getting Started
+### Links
 [Demo (Latest)](https://oneaudi-feature-app-doc-renderer.cdn.dev.one.audi.com/next/index.html?spaceId=8l1afi0yxljy&environment=master&contentId=3Ne84WHpQMVoFyItIF0iWm&preview=true) \
 [Test reports](https://fictional-happiness-72fe38e3.pages.github.io/) \
 [Content](https://app.contentful.com/spaces/8l1afi0yxljy/entries/3Ne84WHpQMVoFyItIF0iWm) \
 [Content Model](https://app.contentful.com/spaces/8l1afi0yxljy/content_types/oneAudiDocRenderer/fields) \
 [Design](https://collaboration.msi.audi.com/confluence/display/OAOS/Documentation+Renderer+-+v1.0)
 
-## Notes
+### Notes
 * Use Node 14 &mdash; Earlier versions have known incompatibility issues, and later versions have not been tested.
 * [React Testing Library](https://testing-library.com/docs/) is used for unit tests.
 * Contentful &mdash; Learn about the [Contentful integration here](https://github.com/volkswagen-onehub/oneaudi-os/tree/832db977229e8b040911059aa164c42105cda07f/packages/contentful).
