@@ -6,7 +6,7 @@
   - [Description](#description)
     - [Content options](#content-options)
 - [Getting Started](#getting-started)
-      - [Links](#links)
+  - [Links](#links)
   - [Notes](#notes)
   - [Prerequisites](#prerequisites)
     - [Environment variables](#environment-variables)
