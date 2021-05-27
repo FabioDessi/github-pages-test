@@ -16,8 +16,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-*TEAM CHABLIS*
 # oneAudi Feature App - Doc Renderer
+**TEAM CHABLIS**
 
 ## Description
 Renders MD documentation files in React with Audi CI
