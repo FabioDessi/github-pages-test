@@ -5,17 +5,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [oneAudi Feature App - Doc Renderer](#oneaudi-feature-app---doc-renderer)
-    - [Description](#description)
-    - [Content options](#content-options)
-    - [Getting Started](#getting-started)
-        - [Links](#links)
-        - [Notes](#notes)
-    - [Prerequisites](#prerequisites)
-        - [Environment variables](#environment-variables)
-        - [Package access](#package-access)
-    - [Project structure](#project-structure)
-    - [Usage](#usage)
+- [Description](#description)
+- [Content options](#content-options)
+- [Getting Started](#getting-started)
+  - [Links](#links)
+  - [Notes](#notes)
+- [Prerequisites](#prerequisites)
+  - [Environment variables](#environment-variables)
+  - [Package access](#package-access)
+- [Project structure](#project-structure)
+- [Usage](#usage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
