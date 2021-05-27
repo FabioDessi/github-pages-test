@@ -17,8 +17,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#### Team CHABLIS
-
 # oneAudi Feature App - Doc Renderer
 
 ## Description
